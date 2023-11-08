@@ -1,0 +1,28 @@
+[
+    {
+      "chamadosmes": 5,
+      "mes": "janeiro",
+      "chamados": "aberto"
+    },
+    {
+      "chamadosmes": 7,
+      "mes": "fevereiro",
+      "chamados": "fechado"
+    },
+    {
+      "chamadosmes": 6,
+      "mes": "março",
+      "chamados": "aberto"
+    },
+    {
+      "chamadosmes": 4,
+      "mes": "abril",
+      "chamados": "andamento"
+    },
+    {
+      "chamadosmes": 8,
+      "mes": "meio",
+      "chamados": "fechado"
+    }
+  ]
+  
